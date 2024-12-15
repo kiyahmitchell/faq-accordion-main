@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://kiyahmitchell.github.io/faq-accordion-main](https://kiyahmitchell.github.io/faq-accordion-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-using-html-css-and-js-0TIzIgZwAu](https://www.frontendmentor.io/solutions/faq-accordion-using-html-css-and-js-0TIzIgZwAu)
 - Live Site URL: [https://kiyahmitchell.github.io/faq-accordion-main](https://kiyahmitchell.github.io/faq-accordion-main)
 
 ## My process
